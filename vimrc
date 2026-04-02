@@ -4,6 +4,7 @@
 	Plug 'vim-airline/vim-airline'
 	Plug 'tribela/vim-transparent'
 	Plug 'davidhalter/jedi-vim'
+	Plug 'ycm-core/YouCompleteMe'
 call plug#end()
 
 set termguicolors
